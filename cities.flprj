@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" MasterStylesheetOverride="False" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." MasterStylesheet="/Content/Resources/Stylesheets/Styles.css">
+<CatapultProject Version="1" MasterStylesheetOverride="False" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" SourceControlProviderType="Git" ProjectGuid="cbe56911-0233-454e-9a60-d5ebfdb32e92">
     <Synchronize>
         <Mapping ProjectPath="Content/Resources/" ExternalPath="file:///C:/Users/gwebb/Pictures/Saved Pictures/" />
     </Synchronize>
