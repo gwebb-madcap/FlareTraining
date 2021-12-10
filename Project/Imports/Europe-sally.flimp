@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveMappedStyles="True" CreateNewStylesheet="True" InlineFormatting="Convert" UseFirstHeadingAsTopicTitle="True" UseMaxCharLimit="False" MaxCharLimit="10000" UseMinCharLimit="True" MinCharLimit="50" AddContinuedLinks="False" ContinuedLinkFormat="(continued in {title})" AddContinuedFromLinks="False" ContinuedFromLinkFormat="(continued from {title})" FilenameLength="24" AutoFitTables="False" UseHeaderRows="False" TableStyles="ProjectStyleSheet" UseListBullets="True" ConvertEquations="True" GeneratePageLayouts="False" PageBreaks="Convert" KeepSourceLinks="False" AutoSync="False" ImportFolder="Europe" LastImport="2021-12-08T12:21:16.1294804-08:00">
+    <Files>
+        <Url Source="../../../Files/Europe.docx" AbsoluteSource="file:///C:/Users/gwebb/Documents/Flare Training/Flare Intro Training/Files/Europe.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Resources/Images/Europe/Prague.png" TimeStamp="12/8/2021 12:21:05 PM" />
+        <Url Source="../../Content/Europe/Prague.htm" TimeStamp="12/8/2021 12:21:05 PM" />
+        <Url Source="../../Content/Resources/Images/Europe/Dublin.png" TimeStamp="12/8/2021 12:21:05 PM" />
+        <Url Source="../../Content/Europe/Dublin.htm" TimeStamp="12/8/2021 12:21:05 PM" />
+        <Url Source="../TOCs/Europe-sally.fltoc" TimeStamp="12/8/2021 12:21:05 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/Europe-sally.css" TimeStamp="12/8/2021 12:21:05 PM" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1.Heading1" Style="Word" />
+        <Map From="Heading 2" To="h2.Heading2" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles>
+        <StyleName Name="Heading 1" />
+    </NewTopicStyles>
+</MsWordImport>
